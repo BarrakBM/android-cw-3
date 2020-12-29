@@ -20,7 +20,7 @@ public class DetailsActivity extends AppCompatActivity {
         ImageView img = findViewById(R.id.imageView);
         TextView sns = findViewById(R.id.Seasonss);
         TextView yrs = findViewById(R.id.yearss);
-        TextView nam = findViewById(R.id.textView6)
+        TextView nam = findViewById(R.id.textView6);
         // استدعاء العناصر
 
        img.setImageResource(t.getImg());
